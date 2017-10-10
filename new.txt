@@ -4,6 +4,7 @@ https://github.com/mynameliuxiang/MyFirstRepository.githttps://github.com/myname
 
 这是个测试文本
 添加第一个分值
+<<<<<<< HEAD
 fenzhi
 
 
@@ -17,3 +18,6 @@ https://github.com/mynameliuxiang/MyFirstRepository.githttps://github.com/myname
 
 hahhahhahahahahhaahh
 >>>>>>> origin/master
+=======
+fenzhi
+>>>>>>> parent of 8ee7c50... 第四次修改
