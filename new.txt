@@ -1,8 +1,19 @@
+﻿
+
+https://github.com/mynameliuxiang/MyFirstRepository.githttps://github.com/mynameliuxiang/MyFirstRepository.git
+
 这是个测试文本
 添加第一个分值
 fenzhi
 
 
+<<<<<<< HEAD
 这都是邪恶啥呀呀呀哎呀
 
 https://github.com/mynameliuxiang/MyFirstRepositoryhttps://github.com/mynameliuxiang/MyFirstRepositoryhttps://github.com/mynameliuxiang/MyFirstRepositoryhttps://github.com/mynameliuxiang/MyFirstRepository
+=======
+https://github.com/mynameliuxiang/MyFirstRepository.githttps://github.com/mynameliuxiang/MyFirstRepository.githttps://github.com/mynameliuxiang/MyFirstRepository.githttps://github.com/mynameliuxiang/MyFirstRepository.git
+
+
+hahhahhahahahahhaahh
+>>>>>>> origin/master
