@@ -1,4 +1,8 @@
-﻿这是个测试文本
+﻿
+
+https://github.com/mynameliuxiang/MyFirstRepository.githttps://github.com/mynameliuxiang/MyFirstRepository.git
+
+这是个测试文本
 添加第一个分值
 fenzhi
 
